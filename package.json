@@ -1,6 +1,7 @@
 {
   "name": "cli-spinner",
   "version": "0.2.7",
+  "typings": "index.d.ts",
   "author": "Pasquale Boemio <boemianrapsodi@gmail.com>",
   "contributors": [
     {
